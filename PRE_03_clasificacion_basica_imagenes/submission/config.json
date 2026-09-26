@@ -1,0 +1,8 @@
+{
+  "C": 10,
+  "gamma": "scale",
+  "kernel": "rbf",
+  "test_size": 0.2,
+  "random_state": 42,
+  "sklearn": "1.5.2"
+}

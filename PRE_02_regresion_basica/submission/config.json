@@ -1,0 +1,12 @@
+{
+  "hidden_layer_sizes": [
+    16
+  ],
+  "solver": "lbfgs",
+  "alpha": 1.0,
+  "max_iter": 10000,
+  "random_state": 42,
+  "split_seed": 0,
+  "train_fraction": 0.8,
+  "sklearn": "1.5.2"
+}

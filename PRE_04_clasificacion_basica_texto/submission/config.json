@@ -1,0 +1,11 @@
+{
+  "ngram_range": [
+    1,
+    2
+  ],
+  "sublinear_tf": true,
+  "C": 2.0,
+  "test_size": 0.2,
+  "random_state": 42,
+  "sklearn": "1.5.2"
+}
