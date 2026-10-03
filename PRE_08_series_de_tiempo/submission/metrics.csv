@@ -1,0 +1,5 @@
+Metrics,yt_pred_stacked_mlp,yt_pred_d1d13_ar13
+MSE Train,115875.97,66646.65
+MSE Test,462726.38,138815.45
+MAE Train,247.23,188.42
+MAE Test,502.36,267.05
